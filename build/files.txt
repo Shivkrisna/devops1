@@ -1,0 +1,16 @@
+ISG/bms/epsmlis.bms
+ISG/bms/epsmort.bms
+ISG/cobol/epsmlist.cbl
+ISG/cobol/epsmpmt.cbl
+ISG/cobol/epsnbrvl.cbl
+ISG/cobol_cics/epscsmrd.cbl
+ISG/cobol_cics/epscsmrt.cbl
+ISG/cobol_cics_db2/epscmort.cbl
+ISG/link/epsmlist.lnk
+ISG/mfs/dfsiv1.mfs
+ISG/copybook/epsmortf.cpy
+ISG/copybook/epsmtcom.cpy
+ISG/copybook/epsmtinp.cpy
+ISG/copybook/epsmtout.cpy
+ISG/copybook/epsnbrpm.cpy
+ISG/copybook/epspdata.cpy
